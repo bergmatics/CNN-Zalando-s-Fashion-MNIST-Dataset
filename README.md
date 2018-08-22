@@ -6,5 +6,4 @@ label from 10 classes.
 
 ![predicted_examples](predicted_examples.png)
 
-See [notebook.ipynb](https://github.com/bergmatics/CNN-Zalandos-Fashion-MNIST-Dataset/blob/master/notebook.ipynb) for explanation of the code.
-Feel free to leave a star if this repo was helpful to you. :alien:
+**See [notebook.ipynb](https://github.com/bergmatics/CNN-Zalandos-Fashion-MNIST-Dataset/blob/master/notebook.ipynb) for explanation of the code.** :alien:
